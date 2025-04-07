@@ -42,6 +42,8 @@ Compilează resursele Frontend
 
     $ ./vendor/bin/sail npm run build
 
+Aplicația va fi accesibila la adresa [localhost:9010](localhost:9010)
+
 Oprește serverul
 
     $ ./vendor/bin/sail down

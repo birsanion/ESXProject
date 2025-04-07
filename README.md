@@ -51,7 +51,7 @@ Oprește serverul
 
 ## Deployment
 
-Pentru deployment se poate folosi platforma [Laravel Forge](https://forge.laravel.com/), prin care te poți conecta la diferiți cloud providers, precum Google Cloud Platform (GCP), Amazon Web Services (AWS), etc. În plus, Forge instalează și gestionează toate instrumentele necesare pentru a construi aplicații robuste Laravel, cum ar fi Nginx, MySQL și multe altele.
+Pentru deployment se poate folosi platforma [Laravel Forge](https://forge.laravel.com/), prin care te poți conecta la diferiți cloud providers, precum Google Cloud Platform (GCP), Amazon Web Services (AWS), etc. În plus, Forge instalează și gestionează toate instrumentele necesare: Nginx, MySQL și multe altele.
 
 ## Îmbunătățiri
 

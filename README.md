@@ -16,7 +16,7 @@ Instalează dependențe PHP
 
     $ composer install
 
-Setează variabile de mediu
+Setează variabilele de mediu
 
     $ cp .env.example .env
 
@@ -56,4 +56,4 @@ Pentru deployment se poate folosi platforma [Laravel Forge](https://forge.larave
 ## Îmbunătățiri
 
 - Verificarea adresei de mail la crearea contului (utilizatorul primește un mail cu un link de validare)
-- Posibilitatea utilizatorul sa iși recupereze / reseteze parola
+- Posibilitatea utilizatorul de a recupera / reseta parola

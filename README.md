@@ -26,26 +26,25 @@ Generază cheia de aplicație
 
 Pornește serverul
 
-    $ ./sail up -d
-
+    $ ./vendor/bin/sail up -d
 
 Rulează migrațiile
 
-    $ ./sail php artisan migrate
+    $ ./vendor/bin/sail php artisan migrate
 
 - Folosește credențialele din .env pentru a te conecta la baza de date
 
 Instalează dependențe JavaScript
 
-    $ ./sail npm install
+    $ ./vendor/bin/sail npm install
 
 Compilează resursele Frontend
 
-    $ ./sail npm run build
+    $ ./vendor/bin/sail npm run build
 
 Oprește serverul
 
-    $ ./sail down
+    $ ./vendor/bin/sail down
 
 
 ## Deployment
